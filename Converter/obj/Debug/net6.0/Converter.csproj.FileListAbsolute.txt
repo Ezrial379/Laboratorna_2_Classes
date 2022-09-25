@@ -1,0 +1,15 @@
+C:\Юра\Univers\ConsoleApp1\Converter\bin\Debug\net6.0\Converter.exe
+C:\Юра\Univers\ConsoleApp1\Converter\bin\Debug\net6.0\Converter.deps.json
+C:\Юра\Univers\ConsoleApp1\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+C:\Юра\Univers\ConsoleApp1\Converter\bin\Debug\net6.0\Converter.dll
+C:\Юра\Univers\ConsoleApp1\Converter\bin\Debug\net6.0\Converter.pdb
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\Converter.csproj.AssemblyReference.cache
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\Converter.dll
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\refint\Converter.dll
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\Converter.pdb
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+C:\Юра\Univers\ConsoleApp1\Converter\obj\Debug\net6.0\ref\Converter.dll

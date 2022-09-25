@@ -1,0 +1,15 @@
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Юра\Univers\ConsoleApp1\Employee\bin\Debug\net6.0\Employee.exe
+C:\Юра\Univers\ConsoleApp1\Employee\bin\Debug\net6.0\Employee.deps.json
+C:\Юра\Univers\ConsoleApp1\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Юра\Univers\ConsoleApp1\Employee\bin\Debug\net6.0\Employee.dll
+C:\Юра\Univers\ConsoleApp1\Employee\bin\Debug\net6.0\Employee.pdb
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\Employee.dll
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\refint\Employee.dll
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\Employee.pdb
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+C:\Юра\Univers\ConsoleApp1\Employee\obj\Debug\net6.0\ref\Employee.dll

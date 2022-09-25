@@ -1,0 +1,15 @@
+C:\Юра\Univers\ConsoleApp1\User\bin\Debug\net6.0\User.exe
+C:\Юра\Univers\ConsoleApp1\User\bin\Debug\net6.0\User.deps.json
+C:\Юра\Univers\ConsoleApp1\User\bin\Debug\net6.0\User.runtimeconfig.json
+C:\Юра\Univers\ConsoleApp1\User\bin\Debug\net6.0\User.dll
+C:\Юра\Univers\ConsoleApp1\User\bin\Debug\net6.0\User.pdb
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\User.csproj.AssemblyReference.cache
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\User.AssemblyInfoInputs.cache
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\User.AssemblyInfo.cs
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\User.csproj.CoreCompileInputs.cache
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\User.dll
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\refint\User.dll
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\User.pdb
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\User.genruntimeconfig.cache
+C:\Юра\Univers\ConsoleApp1\User\obj\Debug\net6.0\ref\User.dll

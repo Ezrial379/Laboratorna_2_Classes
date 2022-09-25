@@ -1,0 +1,15 @@
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.exe
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.deps.json
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.runtimeconfig.json
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.dll
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.pdb
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.csproj.AssemblyReference.cache
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.AssemblyInfoInputs.cache
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.AssemblyInfo.cs
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.csproj.CoreCompileInputs.cache
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.dll
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Address.dll
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.pdb
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.genruntimeconfig.cache
+C:\Юра\Univers\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Address.dll
